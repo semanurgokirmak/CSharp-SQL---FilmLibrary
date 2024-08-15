@@ -1,5 +1,5 @@
 # CSharp-SQL---FilmLibrary
-Csharp dili ve SQL kullanarak bir Film arşivi/kütüphanesi hazırladım
+C# dili ve SQL kullanarak bir Film arşivi/kütüphanesi hazırladım
 
 Projenin Kurulum Aşamaları : 
 
